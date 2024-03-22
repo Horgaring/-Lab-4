@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4I+4fDokxcnfeBMg9JG7lkjuKw//oQwYpIVoVdQn5mWKRuzeabf/EM6FAjvvEXrBT/wfZSY0RxvY5q3vy0rdQ==",
+  "success": true,
+  "projectFilePath": "/home/dima/RiderProjects/ConsoleApp1/Lab 4/Lab 4.csproj",
+  "expectedPackageFiles": [
+    "/home/dima/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/dima/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/dima/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/dima/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512",
+    "/home/dima/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.2/microsoft.netcore.app.host.linux-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
